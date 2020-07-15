@@ -1,0 +1,24 @@
+[
+    {
+        "id": "41fe914f.720dc",
+        "type": "watson-conversation-v1",
+        "z": "eaa2703f.af64e",
+        "name": "Recruiter",
+        "workspaceid": "18a53363-c66c-47fc-a962-0f1dc5295c62",
+        "multiuser": false,
+        "context": true,
+        "empty-payload": false,
+        "service-endpoint": "https://api.eu-gb.assistant.watson.cloud.ibm.com/instances/3e5eceae-25e8-40de-a388-738b2972ffda",
+        "timeout": "",
+        "optout-learning": false,
+        "x": 375,
+        "y": 180,
+        "wires": [
+            [
+                "5d1f00e5.5a067",
+                "647836ec.eacdf8"
+            ]
+        ],
+        "l": false
+    }
+]
